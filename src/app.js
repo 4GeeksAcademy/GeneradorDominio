@@ -5,7 +5,6 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
-window.onload = function() {
 
     // arrays 
     let pronoun = ['la', 'nuestra', 'su'];
@@ -20,6 +19,3 @@ window.onload = function() {
         }
       }
     }
-  
-  console.log("dominio");
-};
